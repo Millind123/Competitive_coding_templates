@@ -1,0 +1,7 @@
+popular resources for CP 
+1 > https://discuss.codechef.com/t/data-structures-and-algorithms/6599
+    {codechef resources for CP by a well known CM. }
+2 > https://codeforces.com/edu/course/2/lesson/6
+    {codeforces edu section problems with video solutions. }
+3 > https://codeforces.com/blog/entry/95106
+    {All templates. }
